@@ -18,7 +18,7 @@
 # 2.启动eurekaserver工程
 pull eurekaserver工程到本地，使用maven ```clean install```,运行该项目，浏览器访问 http://master:8761 即可查看master的eureka管理平台。
 
-[eureka控制台](https://github.com/jiangyang118/springcloudalibaba-starter/blob/master/eureka-sample/eureka%E6%8E%A7%E5%88%B6%E5%8F%B0.png)
+![eureka控制台](https://github.com/jiangyang118/springcloudalibaba-starter/blob/master/eureka-sample/eureka%E6%8E%A7%E5%88%B6%E5%8F%B0.png)
 下述方法启动一个主从架构的eurka管理平台，通过两个url均可访问。
 
 ```
